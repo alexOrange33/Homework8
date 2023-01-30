@@ -1,0 +1,15 @@
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\obj\Debug\net7.0\Example62.csproj.AssemblyReference.cache
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\obj\Debug\net7.0\Example62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\obj\Debug\net7.0\Example62.AssemblyInfoInputs.cache
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\obj\Debug\net7.0\Example62.AssemblyInfo.cs
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\obj\Debug\net7.0\Example62.csproj.CoreCompileInputs.cache
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\bin\Debug\net7.0\Example62.exe
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\bin\Debug\net7.0\Example62.deps.json
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\bin\Debug\net7.0\Example62.runtimeconfig.json
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\bin\Debug\net7.0\Example62.dll
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\bin\Debug\net7.0\Example62.pdb
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\obj\Debug\net7.0\Example62.dll
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\obj\Debug\net7.0\refint\Example62.dll
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\obj\Debug\net7.0\Example62.pdb
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\obj\Debug\net7.0\Example62.genruntimeconfig.cache
+C:\Users\gubin\OneDrive\Документы\Homework8\Example62\obj\Debug\net7.0\ref\Example62.dll
